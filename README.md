@@ -1,6 +1,11 @@
-### Cybersecurity Homelab
+# Cybersecurity Homelab
 
-My setup:
+<br>
+
+## Hardware Setup
 - Asus ROG G15 advantage edition
-- 16 gb of ram (Most imporant component)
-- 
+- AMD Ryzen 9
+- 16 GB of ram (Most imporant component)
+- 1 TB SSD
+
+
