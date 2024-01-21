@@ -11,7 +11,7 @@ First we must configure our virtual machine software. This project uses VMware W
 | OPNsense   | Opensource firewall solution for our networks        |
 | Ubuntu Server   | Used for Splunk Server        |
 | Ubuntu Desktop   | Used for our SOC analyst workstations        |
-| Windows Desktop   | Windows machine with escalated priviledges      |
+| Windows Desktop   | Used for any windows clients      |
 | Windows Server   | Domain Controller        |
 
 <br>
