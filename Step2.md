@@ -26,3 +26,7 @@ OPNsense is an opensource firewall application solution that will filter traffic
 | Header      | Title       |
 | Paragraph   | Text        |
 
+
+
+#### Next Step: [Advanced OPNsense Configuration](Step3.md)
+
