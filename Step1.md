@@ -2,6 +2,18 @@
 
 First we must configure our virtual machine software. This project uses VMware Workstation Pro 17 which requires a paid license key. However, there is a trial version of this software that can used. This configuration should be achieveable on free desktop hypervisor solutions such as Virtual Box or VMware Workstation Player.
 
+
+
+| Machine      | Description |
+| ----------- | ----------- |
+| Kali      | Title       |
+| OPNsense   | Text        |
+| Ubuntu Server   | Text        |
+| Windows Desktop 1   | Text        |
+| Windows Desktop 2   | Text        |
+| Windows Server   | Text        |
+| Metasploitable   | Text        |
+
 <br>
 
 ### Virtulization
