@@ -25,11 +25,17 @@ _NOTE: I have a dedicated SSD to store my virtual machines._
 **Step 2:** Download all machine images
 
 #### Ubuntu
+Our Ubuntu clients will act as linux workstations in our network.
 
-Desktop: https://ubuntu.com/download/desktop
-Server: https://ubuntu.com/download/server
+Downloads: [Desktop](https://ubuntu.com/download/desktop) , [Server](https://ubuntu.com/download/server)
+
 
 #### Kali
+
+VM Image:
+
+Full ISO:
+
 
 #### Windows
 
