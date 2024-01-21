@@ -32,9 +32,7 @@ Downloads: [Desktop](https://ubuntu.com/download/desktop) , [Server](https://ubu
 
 #### Kali
 
-VM Image:
-
-Full ISO:
+Downloads: [VM Image](https://www.kali.org/get-kali/#kali-virtual-machines), [Full ISO](https://www.kali.org/get-kali/#kali-installer-images)
 
 
 #### Windows
