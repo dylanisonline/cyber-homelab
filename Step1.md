@@ -37,12 +37,27 @@ Downloads: [Desktop](https://ubuntu.com/download/desktop) , [Server](https://ubu
 
 Downloads: [VM Image](https://www.kali.org/get-kali/#kali-virtual-machines), [Full ISO](https://www.kali.org/get-kali/#kali-installer-images)
 
+<br>
 
 #### Windows
 
+Downloads: [Windows 10 Evaluation](), [Windows Server Evaluation]()
+
+<br>
+
 #### OPNSense
 
+Download:
+
+<br>
+
 #### Metasploitable 2
+
+Download: 
+
+<br>
+
+
 
 
 
