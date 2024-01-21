@@ -5,7 +5,12 @@ OPNsense is an opensource firewall application solution.
 
 #### Installing on VMware
 ---
-1. sds
-2. dssds
-3. sddsds
-4. dsds
+1. Make sure that the ISO from the [previous step](Step1.md) is downloaded
+2. Open VMware Workstation and create a new virtual machine
+3. Configure hardware for network interfaces for OPNsense Machine
+
+<br>
+
+#### Configure IP Addresses for interfaces
+---
+
