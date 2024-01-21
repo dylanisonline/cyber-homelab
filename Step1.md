@@ -16,7 +16,7 @@ First we must configure our virtual machine software. This project uses VMware W
 
 <br>
 
-### Virtulization
+### Hypervisor Setup
 ---
 Download Page: 
 
@@ -26,17 +26,14 @@ Download Page:
 
 **Step 3:** Go through installation wizard
 
-<br>
-
-### Getting images
----
-**Step 1:** Create Seperate folder to house all homelab virtual machines and images
+(OPTIONAL) Step 4: After installation is done, create a seperate folder to house the virtual machines and images.
 
 _NOTE: I have a dedicated SSD to store my virtual machines._
 
-**Step 2:** Download all machine images
-
 <br>
+
+### Downloading Images
+---
 
 #### Ubuntu
 Our Ubuntu clients will act as linux workstations in our network.
