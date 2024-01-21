@@ -49,6 +49,8 @@ Downloads: [Desktop](https://ubuntu.com/download/desktop) , [Server](https://ubu
 
 Downloads: [VM Image](https://www.kali.org/get-kali/#kali-virtual-machines), [Full ISO](https://www.kali.org/get-kali/#kali-installer-images)
 
+Kali is a distribution of Linux that has many cybersecurity and penetration testing tools pre-installed. In this lab, Kali is going to be the operating system that the threat actor will use in the network. Although the virtual machine image is being used in this project, the full installer ISO can also be used instead.
+
 ![alt](https://i.imgur.com/bqNVdfu.png)
 
 <br>
