@@ -8,20 +8,34 @@ First we must configure our virtual machine software. This project uses VMware W
 ---
 Download Page: 
 
-Step 1: Create a VMware Account and purchase a license key for Workstation Pro.
+**Step 1**: Create a VMware Account and purchase a license key for Workstation Pro.
 
-Step 2: Download the executable from the customer connect portal
+**Step 2:** Download the executable from the customer connect portal
 
-Step 3: Go through installation wizard
+**Step 3:** Go through installation wizard
 
 <br>
 
 ### Prepare ISOs
 ---
-Step 1: Create Seperate folder to house all homelab virtual machines and images
+**Step 1:** Create Seperate folder to house all homelab virtual machines and images
 
 _NOTE: I have a dedicated SSD to store my virtual machines._
 
-Ste
+**Step 2:** Download all machine images
+
+#### Ubuntu
+
+Desktop: https://ubuntu.com/download/desktop
+Server: https://ubuntu.com/download/server
+
+#### Kali
+
+#### Windows
+
+#### OPNSense
+
+#### Metasploitable 2
+
 
 
