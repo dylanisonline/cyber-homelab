@@ -1,4 +1,4 @@
-# Cybersecurity Homelab
+# 🥼🧪 Cybersecurity Homelab
 
 One of the most imporant things that any cybersecurity professional should have (or know how to setup) is a homelab. This makes testing configurations and learning new skills more convienet, safe, and inexpensive.
 
