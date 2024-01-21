@@ -1,4 +1,4 @@
-## Step 2: Configuring OPNSense Firewall
+## Step 2: Configuring OPNsense Firewall
 <br>
 
 ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Opnsense-logo.svg/2560px-Opnsense-logo.svg.png)
@@ -19,4 +19,9 @@ OPNsense is an opensource firewall application solution.
 
 #### Configure IP Addresses for interfaces
 ---
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
