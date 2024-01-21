@@ -57,6 +57,10 @@ Download:
 
 <br>
 
+With all of our images downloaded, we can now proceed with configuring our core components for this lab.
+
+**Next Step: [Setting up OPNsense Firewall](Step2.md)**
+
 
 
 
