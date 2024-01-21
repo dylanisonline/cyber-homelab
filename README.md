@@ -43,5 +43,5 @@ These are going to be the main features that this lab will include. The componen
 
 ### Inspirations 
 ---
-Cyberwox 
+[Cyberwox Cybersecurity Lab](youtube.com)
 
