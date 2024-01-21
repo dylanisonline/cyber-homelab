@@ -59,13 +59,13 @@ Downloads: [Windows 10 Evaluation](), [Windows Server Evaluation]()
 
 #### OPNSense
 
-Download:
+Download: [OPNsense](https://opnsense.org/download/)
 
 <br>
 
 #### Metasploitable 2
 
-Download: 
+Download: [Sourceforge](https://sourceforge.net/projects/metasploitable/)
 
 <br>
 
