@@ -33,12 +33,12 @@ These are going to be the main features that this lab will include. The componen
 
 ### Steps
 ---
-1. Setup Images and Machines
-2. [a relative link](Step1.md)
-3. Configuring opnsense firewall interfaces
-4. Setup Suricata
-5. Configuring Splunk Server
-6. 
+1. [Setup Images and Machines](Step1.md)
+2. Configuring opnsense firewall interfaces
+3. Setup Suricata
+4. Configuring Splunk Server
+5. 
+
 <br>
 
 ### Inspirations 
