@@ -10,8 +10,9 @@ One of the most imporant things that any cybersecurity professional should have 
 
 ### Hardware Setup
 ----
-- AMD Ryzen 9
-- 16 GB of ram (Most imporant component)
+- AMD Ryzen 9 5900HX
+- AMD Radeon RX 6800M
+- 16 GB DDR4 ram (Most imporant component)
 - 1 TB SSD
 
 <br>
