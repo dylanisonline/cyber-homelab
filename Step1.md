@@ -28,7 +28,7 @@ Download Page:
 
 <br>
 
-### Prepare ISOs
+### Getting images
 ---
 **Step 1:** Create Seperate folder to house all homelab virtual machines and images
 
