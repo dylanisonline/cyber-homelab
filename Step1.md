@@ -1,4 +1,4 @@
-## Step 1: Images and Machines
+## Step 1: Preparing Images
 
 First we must configure our virtual machine software. This project uses VMware Workstation Pro 17 which requires a paid license key. However, there is a trial version of this software that can used. This configuration should be achieveable on free desktop hypervisor solutions such as Virtual Box or VMware Workstation Player.
 
@@ -24,11 +24,14 @@ _NOTE: I have a dedicated SSD to store my virtual machines._
 
 **Step 2:** Download all machine images
 
+<br>
+
 #### Ubuntu
 Our Ubuntu clients will act as linux workstations in our network.
 
 Downloads: [Desktop](https://ubuntu.com/download/desktop) , [Server](https://ubuntu.com/download/server)
 
+<br>
 
 #### Kali
 
