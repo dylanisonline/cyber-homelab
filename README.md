@@ -1,18 +1,19 @@
 # 🥼🧪 Cybersecurity Homelab
 
-One of the most imporant things that any cybersecurity professional should have (or know how to setup) is a homelab. This makes testing configurations and learning new skills more convienet, safe, and inexpensive.
+One of the most imporant things that any cybersecurity professional should have (or know how to setup) is a homelab. This makes testing configurations and learning new skills more convenient, safe, and inexpensive.
 
 <br>
 
 ### Network Topology
 ---
+<br>
 
 ### Hardware Setup
 ----
 - AMD Ryzen 9
 - 16 GB of ram (Most imporant component)
 - 1 TB SSD
-- 
+
 <br>
 
 ### Components
@@ -29,14 +30,14 @@ These are going to be the main features that this lab will include. The componen
 
 ### Steps
 ---
-1. Setup Images and Machines
+1. Setup Images and Machines 
 2. Configuring opnsense firewall interfaces
 3. Setup Suricata
 4. Configuring Splunk Server
 5. 
 <br>
 
-#### Inspirations
+#### Inspirations 
 ---
-
+Cyberwox 
 
