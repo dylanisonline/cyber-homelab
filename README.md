@@ -26,6 +26,8 @@ These are going to be the main features that this lab will include. The componen
 4. Security Information and Event Management Tool (Splunk)
 5. Vulnerable Linux Server (Metasploitable)
 6. Domain Controller (Windows Active Directory Server)
+7. VMware Workstation Pro 17 (Virtualization Environment)
+
 <br>
 
 ### Steps
