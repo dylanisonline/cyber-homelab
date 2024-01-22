@@ -42,6 +42,8 @@ _NOTE: I have a dedicated SSD to store my virtual machines._
 
 #### Ubuntu
 
+<br>
+
 Downloads: [Desktop](https://ubuntu.com/download/desktop) , [Server](https://ubuntu.com/download/server)
 
 Our Ubuntu clients will act as linux workstations in our network. 
