@@ -45,10 +45,13 @@ Our Ubuntu clients will act as linux workstations in our network.
 
 **<p align="center">Desktop Client</p>**
 
+![alt](https://i.imgur.com/9ajMNLD.png)
 
-**<p align="center">Server Download</p>**
+**<p align="center">Server</p>**
 
+![alt](https://i.imgur.com/jwZRw01.png)
 
+<br>
 
 #### Kali
 
