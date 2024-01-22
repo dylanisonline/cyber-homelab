@@ -76,17 +76,23 @@ Kali is a distribution of Linux that has many cybersecurity and penetration test
 
 Downloads: [Windows 10 Evaluation](), [Windows Server Evaluation]()
 
+This lab will be implementing Active Directory. Our instance of Windows server will be used as an instance of 
+
 <br>
 
-#### OPNSense
+#### OPNsense
 
 Download: [OPNsense](https://opnsense.org/download/)
+
+OPNsense is an open source firewall solution that will be used to filter and monitor the traffic that is coming into our network.
 
 <br>
 
 #### Metasploitable 2
 
 Download: [Sourceforge](https://sourceforge.net/projects/metasploitable/)
+
+Metasploitable is a deliberately vulnerable linux server that can be used to test various red-team functions.
 
 <br>
 
