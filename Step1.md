@@ -40,9 +40,9 @@ _NOTE: I have a dedicated SSD to store my virtual machines._
 ### Downloading Images
 ---
 
-#### Ubuntu
-
 <br>
+
+#### Ubuntu
 
 Downloads: [Desktop](https://ubuntu.com/download/desktop) , [Server](https://ubuntu.com/download/server)
 
