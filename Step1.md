@@ -16,9 +16,9 @@ First we must configure our virtual machine software. This project uses VMware W
 
 <br>
 
-### Hypervisor Setup
+### VMware Workstation Pro
 ---
-Download Page: 
+Downloads: [VMware](https://www.vmware.com/products/workstation-pro.html)
 
 **Step 1**: Create a VMware Account and purchase a license key for Workstation Pro.
 
