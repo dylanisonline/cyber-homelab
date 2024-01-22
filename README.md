@@ -8,6 +8,23 @@ One of the most imporant things that any cybersecurity professional should have 
 ---
 <br>
 
+
+### Machines
+---
+| Machine      | CPU | Ram | Network | 
+| ----------- | ----------- | ----------- | ----------- |
+| Kali      | Used for our threat actor machine       | 1 | 2 | 
+| Metasploitable   | Vulnerable Linux Server for testing      | 1 | 2 |
+| OPNsense   | Opensource firewall solution for our networks        | 1 | 2 |
+| Ubuntu Server   | Used for Splunk Server        | 1 | 2 |
+| Ubuntu Desktop   | Used for our SOC analyst workstations        | 1 | 2 |
+| Windows Desktop   | Used for any windows clients      | 1 | 2 |
+| Windows Server   | Domain Controller        | 1 | 2 |
+
+
+<br>
+
+
 ### Hardware Setup
 ----
 - AMD Ryzen 9 5900HX
