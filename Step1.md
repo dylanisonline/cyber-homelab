@@ -76,7 +76,7 @@ Kali is a distribution of Linux that has many cybersecurity and penetration test
 
 Downloads: [Windows 10 Evaluation](), [Windows Server Evaluation]()
 
-This lab will be implementing Active Directory. Our instance of Windows server will be used as an instance of 
+This lab will be implementing Active Directory. Our instance of Windows server will be used as a domain controller for to manage our users and resources via active directory.
 
 <br>
 
@@ -84,7 +84,7 @@ This lab will be implementing Active Directory. Our instance of Windows server w
 
 Download: [OPNsense](https://opnsense.org/download/)
 
-OPNsense is an open source firewall solution that will be used to filter and monitor the traffic that is coming into our network.
+OPNsense is an open source firewall solution that will be used to filter and monitor the traffic that is coming into our network. 
 
 <br>
 
