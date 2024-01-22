@@ -1,3 +1,3 @@
-## Step 4: Advanced OPNsense configuration
+## Step 3: Advanced OPNsense configuration
 
 #### 
