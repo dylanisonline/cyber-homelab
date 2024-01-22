@@ -11,9 +11,9 @@ One of the most imporant things that any cybersecurity professional should have 
 
 ### Machines
 ---
-| Machine      | CPU | Ram | Network | 
-| ----------- | ----------- | ----------- | ----------- |
-| Kali      | Used for our threat actor machine       | 1 | 2 | 
+| Machine      | CPU | Ram | Network | Storage | Description |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Kali      | Used for our threat actor machine       | 1 | 2 | 1 | 2 | 
 | Metasploitable   | Vulnerable Linux Server for testing      | 1 | 2 |
 | OPNsense   | Opensource firewall solution for our networks        | 1 | 2 |
 | Ubuntu Server   | Used for Splunk Server        | 1 | 2 |
