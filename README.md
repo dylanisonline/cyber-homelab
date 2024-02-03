@@ -17,7 +17,7 @@ One of the most imporant things that any cybersecurity professional should have 
 | Metasploitable   | 1 | 1 | 2 | 1 | Vulnerable Linux Server for testing  |
 | Kali   | 4        | 40 | 4 | 80 | Threat Actor machine |
 | Ubuntu Server   | 2        | 4 | 2 | 100 | Splunk Server |
-| Ubuntu Desktop   | 2       | 1 | 2 | Used as Linux Based workstation | 
+| Ubuntu Desktop   | 2       | 1 | 2 | | Used as Linux Based workstation
 | Windows Desktop   | 2      | 2 | 2 | 60 | Windows Workstation Operating systems | 
 | Windows Server   | 2        | 2 | 2 | 60 | Domain Controller Server for active directory |
 
@@ -37,7 +37,7 @@ One of the most imporant things that any cybersecurity professional should have 
 These are going to be the main features that this lab will include. The components were picked based on industry standards and principals.
 
 1. Attacking machine (Kali Linux)
-2. Software Firewall (OPNSense)
+2. Software Firewall (Pfsense)
 3. Intrusion Detection System (Suricata)
 4. Security Information and Event Management Tool (Splunk)
 5. Vulnerable Linux Server (Metasploitable)
@@ -50,9 +50,9 @@ These are going to be the main features that this lab will include. The componen
 ---
 1. [Setup Images and Machines](Step1.md)
 2. Configuring opnsense firewall interfaces
-3. Setup Suricata
+3. Setup Snort
 4. Configuring Splunk Server
-5. 
+5. Configuring Active Directory Environment
 
 <br>
 
