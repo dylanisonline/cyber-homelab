@@ -16,7 +16,14 @@ Active Directory (AD) is a directory service developed by Microsoft that functio
 
 #### Creating Virutal Machines
 ---
-First, we must setup our windows images on VMware Workstation Pro (Refer to [Step 1 of this series for ISOs](Step1.md))
+First, we must setup our windows images on VMware Workstation Pro (Refer to [Step 1 of this series for ISOs](Step1.md)). In this step we will create the templates for our instances in the case that we want to add more servers and clients in the future.
+
+**Windows Server:**
+
+
+
+
+**Windows Workstation**
 
 <br>
 
