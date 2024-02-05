@@ -16,13 +16,16 @@ Active Directory (AD) is a directory service developed by Microsoft that functio
 
 #### Creating Virutal Machines
 ---
-First, we must setup the environment 
+First, we must setup our windows images on VMware Workstation Pro (Refer to [Step 1 of this series for ISOs](Step1.md))
 
 <br>
 
 #### Configuring Windows Server
 ---
 
+<br>
+
 #### Sources:
 ---
+
 [John Hammond Active Directory Series](https://www.youtube.com/watch?v=pKtDQtsubio)
