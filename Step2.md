@@ -1,4 +1,4 @@
-## Step 2: Configuring OPNsense Interfaces
+## Step 2: Configuring Pfsense Interfaces
 
 <br>
 
