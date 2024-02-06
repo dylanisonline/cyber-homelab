@@ -7,16 +7,18 @@ Active Directory (AD) is a directory service developed by Microsoft that functio
 
 | Device | CPU | Memory | Storage | Description |
 | --- | --- | --- | --- | --- |
-| Domain Controller (Windows Server) | 4 | 8 | 200 | Server that will be the  |
-| SQL Server (Windows Server) | 2 | 3 | 4 | 5 |
-| Windows Workstation 1 | 2 | 3 | 4 | 5 |
-| Windows Workstation 2 | 2 | 3 | 4 | 5 |
+| Domain Controller (Windows Server) | 4 | 4 | 80 | Server that will be the  |
+| SQL Server (Windows Server) | 4 | 4 | 100 | This is going to be a SQL server that we will use to |
+| Windows Workstation 2 | 4 | 3 | 4 | 5 |
+| Windows Workstation 2 | 4 | 3 | 4 | 5 |
 
 <br>
 
 #### Creating Virutal Machines
 ---
 First, we must setup our windows images on VMware Workstation Pro (Refer to [Step 1 of this series for ISOs](Step1.md)). In this step we will create the templates for our instances in the case that we want to add more servers and clients in the future.
+
+
 
 **Windows Server:**
 
@@ -29,6 +31,7 @@ First, we must setup our windows images on VMware Workstation Pro (Refer to [Ste
 
 #### Configuring Windows Server
 ---
+
 
 <br>
 
