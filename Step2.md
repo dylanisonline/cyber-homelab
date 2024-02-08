@@ -8,16 +8,6 @@
 
 Pfsense is an opensource firewall application solution that will filter traffic between our networks. 
 
- 
-| Network | Adapter Name | VM Network | IP Address Range |
-| --- | --- | --- | --- |
-| WAN | em0 | NAT | Automatic |
-| LAN | em1 | vmnet2 | 192.168.1.11 - 192.168.1.200 |
-| OPT1 | em2 | vmnet3 | 192.168.2.11 - 192.168.2.200 |
-| OPT2 | em3 | vmnet4 | 192.168.3.11 - 192.168.3.200 |
-| OPT3 | em4 | vmnet5 | 192.168.4.11 - 192.168.4.200 |
-
-
 <br>
 
 #### Installing on VMware
@@ -38,12 +28,19 @@ Pfsense is an opensource firewall application solution that will filter traffic 
 #### Configure IP Addresses for interfaces
 ---
 
-1. Go into configuration 
+ 
+| Network | Adapter Name | VM Network | IP Address Range |
+| --- | --- | --- | --- |
+| WAN | em0 | NAT | Automatic |
+| LAN | em1 | vmnet2 | 192.168.1.11 - 192.168.1.200 |
+| OPT1 | em2 | vmnet3 | 192.168.2.11 - 192.168.2.200 |
+| OPT2 | em3 | vmnet4 | 192.168.3.11 - 192.168.3.200 |
+| OPT3 | em4 | vmnet5 | 192.168.4.11 - 192.168.4.200 |
 
-
-
-
-
+1. Go to assign interfaces
+2. Configure the interfaces according to the chart above
+3. Configure IP address of LAN (em1)
+4. 
 
 
 #### Next Step: 
