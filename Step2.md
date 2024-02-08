@@ -21,7 +21,7 @@ Pfsense is an opensource firewall application solution that will filter traffic 
 #### Configure IP Addresses for interfaces
 ---
  
-| 1 | 2 | 3 | IP Address Range |
+| Network | Adapter Name | Network | IP Address Range |
 | --- | --- | --- | --- |
 | WAN | em0 | NAT | |
 | LAN | em1 | vmnet2 | 192.168.1.11 - 192.168.1.200 |
