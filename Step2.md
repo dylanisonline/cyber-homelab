@@ -20,13 +20,15 @@ Pfsense is an opensource firewall application solution that will filter traffic 
 
 #### Configure IP Addresses for interfaces
 ---
+ 
+| 1 | 2 | 3 | IP Address Range |
+| --- | --- | --- | --- |
+| WAN | em0 | NAT | |
+| LAN | em1 | vmnet2 | 192.168.1.11 - 192.168.1.200 |
+| OPT1 | em2 | vmnet3 | 192.168.2.11 - 192.168.2.200 |
+| OPT2 | em3 | vmnet4 | 192.168.3.11 - 192.168.3.200 |
+| OPT3 | em4 | vmnet5 | 192.168.4.11 - 192.168.4.200 |
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
 
-
-
-#### Next Step: [Advanced OPNsense Configuration](Step3.md)
+#### Next Step: 
 
