@@ -9,7 +9,7 @@ First we must configure our virtual machine software. This project uses VMware W
 
 #### Ubuntu
 
-Downloads: [Desktop](https://ubuntu.com/download/desktop) , [Server](https://ubuntu.com/download/server)
+Downloads: [Desktop](https://ubuntu.com/download/desktop)
 
 Our Ubuntu clients will act as linux workstations in our network. 
 
@@ -49,11 +49,11 @@ This lab will be implementing Active Directory. Our instance of Windows server w
 
 <br>
 
-#### OPNsense
+#### Pfsense
 
-Download: [OPNsense](https://opnsense.org/download/)
+Download: [Pfsense Community Edition](https://www.pfsense.org/download/))
 
-OPNsense is an open source firewall solution that will be used to filter and monitor the traffic that is coming into our network. 
+Pfsense is an open source firewall solution that will be used to filter and monitor the traffic that is coming into our network. 
 
 <br>
 
