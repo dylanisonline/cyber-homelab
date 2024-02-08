@@ -39,16 +39,6 @@ Kali is a distribution of Linux that has many cybersecurity and penetration test
 
 <br>
 
-#### Windows
-
-Downloads: [Windows 10 Evaluation](https://info.microsoft.com/ww-landing-windows-10-enterprise.html), [Windows Server Evaluation](https://info.microsoft.com/ww-landing-windows-server-2019.html)
-
-This lab will be implementing Active Directory. Our instance of Windows server will be used as a domain controller for to manage our users and resources via active directory.
-
-![alt](https://i.imgur.com/oQ1v4zt.png)
-
-<br>
-
 #### Pfsense
 
 Download: [Pfsense Community Edition](https://www.pfsense.org/download/))
@@ -58,8 +48,6 @@ Pfsense is an open source firewall solution that will be used to filter and moni
 <br>
 
 ![alt](https://i.imgur.com/Cj9aGY5.png)
-
-_NOTE: Download with these settings._
 
 <br>
 
@@ -75,7 +63,7 @@ Metasploitable is a deliberately vulnerable linux server that can be used to tes
 
 <br>
 
-#### **Next Step: [Setting up OPNsense Firewall](Step2.md)**
+#### **Next Step: [Setting up Pfsense Firewall](Step2.md)**
 
 
 
