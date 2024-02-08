@@ -6,7 +6,7 @@
 
 <br>
 
-OPNsense is an opensource firewall application solution that will filter traffic between our networks. 
+Pfsense is an opensource firewall application solution that will filter traffic between our networks. 
 
 <br>
 
