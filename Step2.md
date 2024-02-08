@@ -17,7 +17,7 @@ Pfsense is an opensource firewall application solution that will filter traffic 
 3. Configure hardware for network interfaces for OPNsense Machine
 
 <p align="center">
-  <img src="https://i.imgur.com/iGv60Hp.png" alt="Sublime's custom image" width=400/>
+  <img src="https://i.imgur.com/iGv60Hp.png" alt="Sublime's custom image" width=500/>
 </p>
 
 4. isntal
