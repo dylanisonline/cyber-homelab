@@ -2,7 +2,7 @@
 
 <br>
 
-![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Opnsense-logo.svg/2560px-Opnsense-logo.svg.png)
+![alt](https://securityaffairs.com/wp-content/uploads/2023/12/1200px-PfSense_logo.png)
 
 <br>
 
