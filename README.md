@@ -6,20 +6,16 @@ One of the most imporant things that any cybersecurity professional should have 
 
 ### Network Topology
 ---
-<br>
 
+192.168.1.x : Engineering Network. Where a machine will be placed for configuring the Pfsense firewall.
 
-### Machines
----
-| Machine      | CPU | Ram | Network | Storage | Description |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| OPNsense      | 2  | 4 | Nat | 20 | Firewall software solution | 
-| Metasploitable   | 1 | 1 | 2 | 1 | Vulnerable Linux Server for testing  |
-| Kali   | 4        | 40 | 4 | 80 | Threat Actor machine |
-| Ubuntu Server   | 2        | 4 | 2 | 100 | Splunk Server |
-| Ubuntu Desktop   | 2       | 1 | 2 | | Used as Linux Based workstation
-| Windows Desktop   | 2      | 2 | 2 | 60 | Windows Workstation Operating systems | 
-| Windows Server   | 2        | 2 | 2 | 60 | Domain Controller Server for active directory |
+192.168.2.x : Security Onion machine and Analyst Machine
+
+192.168.3.x : Where our vulnerable server is going to be
+
+192.168.4.x : Where our Linux Workstations will be
+
+192.168.5.x: Where our attack machine will be
 
 <br>
 
@@ -27,7 +23,7 @@ One of the most imporant things that any cybersecurity professional should have 
 ----
 - AMD Ryzen 9 5900HX
 - AMD Radeon RX 6800M
-- 16 GB DDR4 ram (Most imporant component)
+- 32 GB DDR4 ram (Most imporant component)
 - 1 TB SSD
 
 <br>
@@ -36,23 +32,21 @@ One of the most imporant things that any cybersecurity professional should have 
 ---
 These are going to be the main features that this lab will include. The components were picked based on industry standards and principals.
 
-1. Attacking machine (Kali Linux)
-2. Software Firewall (Pfsense)
-3. Intrusion Detection System (Suricata)
-4. Security Information and Event Management Tool (Splunk)
-5. Vulnerable Linux Server (Metasploitable)
-6. Domain Controller (Windows Active Directory Server)
-7. VMware Workstation Pro 17 (Virtualization Environment)
+1. VMware Workstation Pro (Virtualization Solution)
+2. Pfsense (Firewall and Routing solution)
+3. Security Onion (IDS / IPS solution)
+4. Metasploitable (Deliberately vulnerable server)
+5. Kali Linux (Threat Actor)
 
 <br>
 
 ### Steps
 ---
 1. [Setup Images and Machines](Step1.md)
-2. Configuring opnsense firewall interfaces
-3. Setup Snort
-4. Configuring Splunk Server
-5. Configuring Active Directory Environment
+2. Configuring Pfsense
+3. Setting up Security Onion
+4. Configuring and connecting other machines
+5. Attacking Metasploitable 
 
 <br>
 
