@@ -46,7 +46,8 @@ These are going to be the main features that this lab will include. The componen
 2. Configuring Pfsense
 3. Setting up Security Onion
 4. Configuring and connecting other machines
-5. Attacking Metasploitable 
+5. Advanced Security Onion Configuration
+6. Testing Attacks with Metasploitable
 
 <br>
 
