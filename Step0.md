@@ -1,4 +1,4 @@
-# Configuring VMware and Organizing
+# Configuring VMware and File Organization
 
 
 #### VMware Workstation Pro 17
@@ -14,7 +14,12 @@ Workstation Pro will be the hypervisor solution for this lab environment. It is 
 
 **Step 3:** Go through installation wizard
 
-(OPTIONAL) Step 4: After installation is done, create a seperate folder to house the virtual machines and images.
+**Step 4:** Start up VMware and create seperate folders for different networks.
+
+![alt]()
+
+![alt]()
+
 
 _NOTE: I have a dedicated SSD to store my virtual machines._
 
