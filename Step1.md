@@ -4,15 +4,7 @@ First we must configure our virtual machine software. This project uses VMware W
 
 <br>
 
-| Image      | Description |
-| ----------- | ----------- |
-| Kali      | Used for our threat actor machine       |
-| Metasploitable   | Vulnerable Linux Server for testing      |
-| PFsense   |  Firewall solution for networking      |
-| Ubuntu Server   | Used for Splunk Server        |
-| Ubuntu Desktop   | Used for our SOC analyst workstations        |
-| Windows Desktop   | Used for any windows clients      |
-| Windows Server   | Domain Controller        |
+
 
 <br>
 
