@@ -42,7 +42,7 @@ Pfsense is an open source firewall solution that will be used to filter and moni
 
 <br>
 
-![alt](https://i.imgur.com/Cj9aGY5.png)
+![https://i.imgur.com/Cj9aGY5.png](https://i.imgur.com/LB8E9Qo.png)
 
 <br>
 
