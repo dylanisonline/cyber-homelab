@@ -23,7 +23,7 @@ Workstation Pro will be the hypervisor solution for this lab environment. It is 
 ![alt](https://i.imgur.com/Yb4of8a.png)
 
 
-**<p align="center">File Explorer Structures</p>**
+**<p align="center">File Explorer Structure</p>**
 
 ![alt](https://i.imgur.com/fSmJYrn.png)
 
