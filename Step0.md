@@ -16,11 +16,19 @@ Workstation Pro will be the hypervisor solution for this lab environment. It is 
 
 **Step 4:** Start up VMware and create seperate folders for different networks.
 
-![alt]()
+<br>
 
-![alt]()
+**<p align="center">VMware File Structure</p>**
+
+![alt](https://i.imgur.com/Yb4of8a.png)
 
 
-_NOTE: I have a dedicated SSD to store my virtual machines._
+**<p align="center">File Explorer Structures</p>**
+
+![alt](https://i.imgur.com/fSmJYrn.png)
+
 
 <br>
+
+
+**Next Step: [Getting Images](Step1.md)**
