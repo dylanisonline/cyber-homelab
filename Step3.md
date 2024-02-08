@@ -13,4 +13,7 @@
 ---
 1. Open browser and type in IP address of Pfsense machine `192.168.1.1`
 2. Accept the risk and continue
-3. Login With default credentials ``
+3. Login With default credentials
+- Username: `admin`
+- Password: `pfsense`
+4.  
