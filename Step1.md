@@ -4,10 +4,6 @@ First we must configure our virtual machine software. This project uses VMware W
 
 <br>
 
-
-
-<br>
-
 ### Getting Images
 ---
 
