@@ -15,8 +15,8 @@ Our Ubuntu clients will act as linux workstations in our network.
 
 <br>
 
-![alt](https://i.imgur.com/9ajMNLD.png)
 **<p align="center">Desktop Client</p>**
+![alt](https://i.imgur.com/9ajMNLD.png)
 
 <br>
 
