@@ -14,13 +14,14 @@ Pfsense is an opensource firewall application solution that will filter traffic 
 ---
 1. Make sure that the ISO from the [previous step](Step1.md) is downloaded
 2. Open VMware Workstation and create a new virtual machine
-3. Configure hardware for network interfaces for OPNsense Machine
+3. Configure hardware for network interfaces for Pfsense Machine
 
 <p align="center">
   <img src="https://i.imgur.com/iGv60Hp.png" alt="Sublime's custom image" width=500/>
 </p>
 
-4. isntal
+4. Start Virtual Machine
+5. Use default settings on the installer and reboot after completion
 
 <br>
 
@@ -29,7 +30,7 @@ Pfsense is an opensource firewall application solution that will filter traffic 
  
 | Network | Adapter Name | VM Network | IP Address Range |
 | --- | --- | --- | --- |
-| WAN | em0 | NAT | |
+| WAN | em0 | NAT | Automatic |
 | LAN | em1 | vmnet2 | 192.168.1.11 - 192.168.1.200 |
 | OPT1 | em2 | vmnet3 | 192.168.2.11 - 192.168.2.200 |
 | OPT2 | em3 | vmnet4 | 192.168.3.11 - 192.168.3.200 |
