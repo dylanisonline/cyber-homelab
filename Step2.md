@@ -28,7 +28,8 @@ Pfsense is an opensource firewall application solution that will filter traffic 
 #### Configure IP Addresses for interfaces
 ---
 
- 
+<br>
+
 | Network | Adapter Name | VM Network | IP Address Range |
 | --- | --- | --- | --- |
 | WAN | em0 | NAT | Automatic |
@@ -38,7 +39,13 @@ Pfsense is an opensource firewall application solution that will filter traffic 
 | OPT3 | em4 | vmnet5 | 192.168.4.11 - 192.168.4.200 |
 
 1. Go to assign interfaces
-2. Configure the interfaces according to the chart above
+
+![alt](https://i.imgur.com/HUlLtAF.png)
+
+
+
+
+2. Configure the interfaces achttps://i.imgur.com/HUlLtAF.pngcording to the chart above
 3. Configure IP address of LAN (em1)
 4. 
 
