@@ -43,21 +43,40 @@ Pfsense is an opensource firewall application solution that will filter traffic 
 
 <br>
 
-![alt](https://i.imgur.com/HUlLtAF.png)
 
-- Enter `1`
-- 'No' to VLANs
-- Assign the interfaces according to the chart above
-
-
-![alt](https://i.imgur.com/ZQFnzFF.png)
+1. Enter `1` to Assign Interfaces
 
 
 <br>
 
-### Configuring the LAN network
+![alt](https://i.imgur.com/HUlLtAF.png)
+
+<br>
+
+2. `No` to VLANs
+3. Assign interfaces according to the chart above.
+4. Final configuration should look like this:
+
+<br>
+
+![alt](https://i.imgur.com/ZQFnzFF.png)
+
+<br>
 
 
+5. `Y` to proceed
+
+<br>
+
+### Configuring LAN
+---
+
+<br>
+
+1. Enter `2` to configure IP addresses for network interfaces
+2. Enter `2` to configure the LAN
+3. Do not
+4. Enable DHCP
 
 
 #### Next Step: 
