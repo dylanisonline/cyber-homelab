@@ -10,7 +10,20 @@ Pfsense is an opensource firewall application solution that will filter traffic 
 
 <br>
 
-#### Installing on VMware
+
+| Network | Adapter Name | VM Network | IP Address Range |
+| --- | --- | --- | --- |
+| WAN | em0 | NAT | Automatic |
+| LAN | em1 | vmnet2 | 192.168.1.11 - 192.168.1.200 |
+| OPT1 | em2 | vmnet3 | 192.168.2.11 - 192.168.2.200 |
+| OPT2 | em3 | vmnet4 | 192.168.3.11 - 192.168.3.200 |
+| OPT3 | em4 | vmnet5 | 192.168.4.11 - 192.168.4.200 |
+
+
+
+<br>
+
+### Installing on VMware
 ---
 1. Make sure that the ISO from the [previous step](Step1.md) is downloaded
 2. Open VMware Workstation and create a new virtual machine
@@ -25,29 +38,26 @@ Pfsense is an opensource firewall application solution that will filter traffic 
 
 <br>
 
-#### Configure IP Addresses for interfaces
+### Assigning Interfaces
 ---
 
 <br>
 
-| Network | Adapter Name | VM Network | IP Address Range |
-| --- | --- | --- | --- |
-| WAN | em0 | NAT | Automatic |
-| LAN | em1 | vmnet2 | 192.168.1.11 - 192.168.1.200 |
-| OPT1 | em2 | vmnet3 | 192.168.2.11 - 192.168.2.200 |
-| OPT2 | em3 | vmnet4 | 192.168.3.11 - 192.168.3.200 |
-| OPT3 | em4 | vmnet5 | 192.168.4.11 - 192.168.4.200 |
-
-1. Go to assign interfaces
-
 ![alt](https://i.imgur.com/HUlLtAF.png)
 
+- Enter `1`
+- 'No' to VLANs
+- Assign the interfaces according to the chart above
 
 
+![alt](https://i.imgur.com/ZQFnzFF.png)
 
-2. Configure the interfaces achttps://i.imgur.com/HUlLtAF.pngcording to the chart above
-3. Configure IP address of LAN (em1)
-4. 
+
+<br>
+
+### Configuring the LAN network
+
+
 
 
 #### Next Step: 
